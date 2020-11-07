@@ -12,7 +12,7 @@ This projects lets you control two motors either in a clockwise or counterclockw
 
 ## Schematic
 
-![design image](https://github.com/angelina-tsuboi/LCD_Visual_Display/blob/main/images/base_design.png)
+![design image](https://github.com/angelina-tsuboi/L293D-Motor-Driver/blob/main/images/design.png)
 
 ## How It Works
 
@@ -65,7 +65,7 @@ Inside the *loop* function we rotate motor A and motor B clockwise and countercl
 
 ## Completed Project
 
-![project photo](https://github.com/angelina-tsuboi/LCD_Visual_Display/blob/main/images/completed-project.jpg)
+![project photo](https://github.com/angelina-tsuboi/L293D-Motor-Driver/blob/main/images/finished.jpg)
 
 ## Sources
 
